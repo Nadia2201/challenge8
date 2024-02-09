@@ -89,7 +89,7 @@ class ManageBirthdays():
 
     def calculate_age(self, friend):
         # Parameters:
-        #   friend : string
+        #   friends : list of friends
         #Returns:
         #   age : integer
         # Side-effects:
